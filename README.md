@@ -12,5 +12,7 @@ Algoritma decrease and conquer yang digunakan pada program ini adalah ketika men
 
 ## Author
 Delisha Azza Naadira
+
 13519133
+
 Teknik Informatika
