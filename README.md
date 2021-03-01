@@ -6,7 +6,8 @@ Algoritma decrease and conquer yang digunakan pada program ini adalah ketika men
 ## Cara Menggunakan
 1. Masukkan file input dalam bentuk .txt ke dalam folder **test** atau gunakan salah satu file input yang telah tersedia dalam folder.
 2. File input dapat dibuat dengan format sebagai berikut:
-   ```<kode_kuliah_1>, <kode kuliah prasyarat - 1>, <kode kuliah prasyarat - 2>, <kode kuliah prasyarat - 3>.```
+   
+   `<kode_kuliah_1>, <kode kuliah prasyarat - 1>, <kode kuliah prasyarat - 2>, <kode kuliah prasyarat - 3>.`
 3. Ubah nama file pada file **main_13519133.py** line 10 menjadi nama file input yang ingin diproses.
 4. Run file **main_13519133.py**.
 
